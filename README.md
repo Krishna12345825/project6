@@ -1,6 +1,6 @@
 # project6
 
-![image](https://img.shields.io/badge/project-1-red)
+![image](https://img.shields.io/badge/project-6-red)
 
 
 ## Project-6  [live Link](https://projec6.netlify.app/)
